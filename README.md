@@ -1,4 +1,5 @@
 # GEOG-510
+This is my first repository.
 A repo for GEOG-510(Geographic Sofeware Design)
 
 ## Lectures
